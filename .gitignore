@@ -1,4 +1,4 @@
 asli.ipynb
 /.ipynb_checkpoints
-tree.dot
-tree.png
+*.dot
+*.png
